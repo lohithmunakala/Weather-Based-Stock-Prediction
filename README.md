@@ -74,10 +74,6 @@ The Dataset we have is **data of sale of various FMCG goods of a SuperMarket** l
 - We predict the number of products sold for each category everyday based on this data. The inputs taken by the model would be the weather and the probable quantity sold each day would be the final output. This would lead to better predicting of stock and easy ordering of the necessary goods. 
 
 
-## Flowchart
-
-A brief flowchart showing each step in the model building process.
-
 
 
 ## Training, Testing and Deployment
@@ -174,6 +170,19 @@ They include
 
 - Real-time and predictive out of stock in retail stores in a cost-effective manner.
 
+
+## This is the homepage
+![alt text](https://github.com/lohithmunakala/pg-web-app/blob/master/images/homepage.png)
+
+## How to enter the details
+![alt text](https://github.com/lohithmunakala/pg-web-app/blob/master/images/inputs.png)
+
+## Output Screen 1
+![alt text](https://github.com/lohithmunakala/pg-web-app/blob/master/images/output1.png)
+
+
+## Output Screen 2
+![alt text](https://github.com/lohithmunakala/pg-web-app/blob/master/images/output2.png)
 
 ## DEMO VIDEO
 
