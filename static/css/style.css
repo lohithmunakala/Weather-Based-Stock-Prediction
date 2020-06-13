@@ -1,0 +1,54 @@
+form input {
+  appearance: none;
+  outline: 0;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 250px;
+  border-radius: 3px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  transition-duration: 0.25s;
+  font-weight: 300;
+width: 250px;
+  
+}
+form input:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+  
+}
+
+::-webkit-input-placeholder {
+   color: white;
+  
+}
+
+
+form input:focus {
+ position:absolute;
+  background-color: white;
+  color: #53e3a6;
+}
+form button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #53e3a6;
+  border-radius: 3px;
+  width: 250px;
+  cursor: pointer;
+  font-size: 18px;
+  transition-duration: 0.25s;
+  transition: all ease 0.3s;
+
+  background-image: url("http://i.giphy.com/5xtDarKC1UPebKjiC7m.gif");
+}
+form button:hover {
+  background-image: url("http://i.giphy.com/5xtDarKC1UPebKjiC7m.gif");
+  transition: all ease 0.3s;
+}
