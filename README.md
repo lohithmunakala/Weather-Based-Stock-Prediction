@@ -177,9 +177,8 @@ They include
 
 ## DEMO VIDEO
 
-Click here to view DEMO VIDEO : https://youtu.be/oqBa5oczFZo
+Click here to view DEMO VIDEO : https://www.youtube.com/watch?v=Yu01uDnsUFY
 
-<img src="https://github.com/sbis04/Healthcare-poseAI/blob/master/PoseAI%20images/screen3.jpg" height="500"  alt="Screenshot"/>
 
 
 ## TEST IT LIVE!
