@@ -60,7 +60,7 @@ Holt-Winters Seasonal Models will be used.
 
 ## FINAL RESULT:
 
-The final result is a **number of units sold for each product of each category** so as to know and procure the required goods. 
+The final result is a **number of units sold for each product of each category** so as to know when and how to procure the required goods. 
 
 
 ## Dataset
